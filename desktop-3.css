@@ -1,0 +1,66 @@
+.desktop-3-child,
+.output {
+  position: absolute;
+  top: 332px;
+}
+.desktop-3-child {
+  left: 72px;
+  background-color: var(--color-gainsboro-100);
+  width: 868px;
+  height: 609px;
+}
+.output {
+  left: 1021px;
+  font-weight: 500;
+  display: inline-block;
+  width: 332px;
+  height: 439px;
+}
+.alarm,
+.desktop-3-item {
+  position: absolute;
+  top: 868px;
+}
+.desktop-3-item {
+  left: 1052px;
+  background-color: #d9d9d9;
+  width: 270px;
+  height: 73px;
+}
+.alarm {
+  left: 1094px;
+  font-weight: 500;
+  display: inline-block;
+  width: 186px;
+  height: 50px;
+}
+.desktop-3-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 134px;
+}
+.human-anomaly-detection1 {
+  position: absolute;
+  top: 23px;
+  left: 421px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.06em;
+  display: inline-block;
+  font-family: var(--font-libre-bodoni);
+  color: var(--color-steelblue);
+  width: 669px;
+  height: 149px;
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1088px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

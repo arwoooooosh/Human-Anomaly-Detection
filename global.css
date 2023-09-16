@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-libre-bodoni: "Libre Bodoni";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro-100: #dbdada;
+  --color-steelblue: #436ca9;
+  --color-black: #000;
+}

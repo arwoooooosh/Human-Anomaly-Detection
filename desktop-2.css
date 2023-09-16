@@ -1,0 +1,58 @@
+.desktop-2-child,
+.desktop-2-item {
+  position: absolute;
+  top: 405px;
+  left: 112px;
+  background-color: var(--color-gainsboro-100);
+  width: 557px;
+  height: 377px;
+  cursor: pointer;
+}
+.desktop-2-item {
+  left: 789px;
+  width: 589px;
+}
+.night-vision,
+.thermal-vision {
+  position: absolute;
+  top: 824px;
+  left: 190px;
+  font-weight: 500;
+  display: inline-block;
+  width: 400px;
+  height: 73px;
+}
+.thermal-vision {
+  left: 849px;
+  width: 473px;
+}
+.desktop-2-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1512px;
+  height: 134px;
+}
+.human-anomaly-detection2 {
+  position: absolute;
+  top: 23px;
+  left: 421px;
+  font-size: var(--font-size-29xl);
+  letter-spacing: 0.06em;
+  display: inline-block;
+  font-family: var(--font-libre-bodoni);
+  color: var(--color-steelblue);
+  width: 669px;
+  height: 149px;
+}
+.desktop-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1088px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
